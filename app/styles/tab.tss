@@ -1,0 +1,44 @@
+"ListView": {
+	backgroundColor: '#fff'
+}
+"ImageView": {
+	height: 50,
+	width: 50
+}
+"#image": {
+	left: 0
+}
+"#label1": {
+	right: 10
+}
+"#leftImage": {
+	left: 0,
+	width: 60,
+	height: 60
+}
+"#rightImage": {
+	right: 5,
+	width: 50,
+	height: 50
+}
+"#title": {
+	left: 60,
+	right: 60,
+	top: 5,
+	height: 30,
+	color: '#000000',
+	font: {
+		fontSize: 18,
+		fontWeight: 'bold'
+	}
+}
+"#subtitle": {
+	left: 70,
+	right: 60,
+	top: 35,
+	color: '#222222',
+	font: {
+		fontSize: 12,
+		fontWeight: 'normal'
+	}
+}

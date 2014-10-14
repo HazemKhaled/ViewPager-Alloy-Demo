@@ -1,0 +1,19 @@
+<Alloy>
+	<Window title="ViewPager Demo">
+		<ListView onItemclick="onItemClick">
+			<ListSection>
+				<ListItem title="'Vanilla' ViewPager"/>
+				<ListItem title="'Vanilla' ViewPager w/ indicator"/>
+				<ListItem title="'Vanilla' ViewPager w/ custom indicator"/>
+				<ListItem title="ViewPager w/ fixed tabs"/>
+				<ListItem title="ViewPager w/ fixed tabs and indicator"/>
+				<ListItem title="ViewPager w/ fixed tabs and custom styling"/>
+				<ListItem title="ViewPager w/ scrolling tabs"/>
+				<ListItem title="ViewPager w/ scrolling tabs and indicator"/>
+				<ListItem title="ViewPager w/ scrolling tabs and custom styling"/>
+				<ListItem title="ViewPager w/ market tabs"/>
+				<ListItem title="ViewPager w/ market tabs and custom styling"/>
+			</ListSection>
+		</ListView>
+	</Window>
+</Alloy>
